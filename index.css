@@ -1,4 +1,10 @@
 *{
 background-color: aquamarine;
 color: blue;
+padding: 100px;
+height: fit-content;
+
+}
+.third{
+    background-color: #fff;
 }
